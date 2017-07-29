@@ -1,5 +1,5 @@
 var vrHomePage = vRViewPlayer('#vr-homepage', {
-    image: 'assets/jesus-room.jpg',
+    image: '../IMG_20170729_155953.vr.jpg',
     is_stereo: false,
     is_autopan_off: true,
 });
